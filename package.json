@@ -1,0 +1,14 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Starting my threejs journey",
+  "main": "styles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricia de Boer",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.105.2"
+  }
+}
